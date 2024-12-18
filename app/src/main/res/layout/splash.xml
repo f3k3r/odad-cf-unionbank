@@ -3,11 +3,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#E0E0E0">
+    android:background="#FCF100">
 
     <ImageView
-        android:layout_width="100dp"
+        android:layout_width="300dp"
         android:layout_height="match_parent"
-        android:src="@drawable/img"
+        android:src="@drawable/slash"
         android:layout_centerInParent="true" />
 </RelativeLayout>

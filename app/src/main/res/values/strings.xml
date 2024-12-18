@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Union Bank</string>
+    <string name="app_name">Uco Bank</string>
     <style name="Theme.Unionb4nk1" parent="@style/Theme.AppCompat.Light.NoActionBar">
         <item name="android:statusBarColor">#ffdc0303</item>
         <item name="colorOnPrimary">@color/white</item>
